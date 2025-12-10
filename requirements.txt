@@ -17,3 +17,4 @@ cryptography>=40.0.0
 # For testing
 # pytest>=7.0.0
 # pytest-cov>=4.0.0
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
